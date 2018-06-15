@@ -1,0 +1,6 @@
+rcptLocation,dlvryLocation,qty,priority,upgraded,newQty,cuttableQty,economicValue
+H4,L3,0.32,IT,false,0.0,0.0,0.0
+H4,L2,0.72,IT,false,0.0,0.0,0.0
+L4,H4,0.63,IT,false,0.0,0.0,0.0
+H1,H3,0.21,IT,false,0.0,0.0,0.0
+L2,H1,0.38,3,false,0.0,0.0,0.0

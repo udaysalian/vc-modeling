@@ -1,0 +1,6 @@
+rcptLocation,dlvryLocation,qty,priority,upgraded,newQty,cuttableQty,economicValue
+H1,VCAC,0.87,AO,false,0.0,0.0,0.0
+L4,VCAC,0.16,1,false,0.0,0.0,0.0
+H2,VCAC,0.12,AO,false,0.0,0.0,0.0
+H4,VCAC,0.42,AO,false,0.0,0.0,0.0
+H2,VCAC,0.46,1,false,0.0,0.0,0.0
